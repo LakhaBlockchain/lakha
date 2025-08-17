@@ -2,7 +2,9 @@
 ## Technical Architecture & Implementation
 
 **Version:** 0.0.1  
+
 **Date:** July 2025
+
 **Authors:** [David Nzube](https://x.com/DavidNzube101)
 
 ---
