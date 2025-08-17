@@ -43,11 +43,11 @@ Lahka is a next-generation blockchain platform that combines the security of Pro
 
 ### Technical Highlights:
 - **Block Time**: 5 seconds
-- **Transaction Throughput**: Up to 20 TPS
+- **Transaction Throughput**: Up to 50ms TS, 400ms TTF
 - **Consensus**: Proof of Contribution Stake (PoCS)
 - **Storage**: LevelDB for high performance
 - **Address Format**: Bech32 for human readability
-- **Smart Contracts**: Built-in contract engine
+- **Smart Contracts**: Built-in contract engine (not fully built)
 
 ---
 
@@ -55,7 +55,7 @@ Lahka is a next-generation blockchain platform that combines the security of Pro
 
 ### Problem Statement
 Traditional blockchain platforms face several challenges:
-- **Centralization**: PoW systems favor large mining pools
+- **Centralization**: Some PoW systems favour large mining pools, often PoS favours large stake holders
 - **Inefficiency**: High energy consumption and slow transaction processing
 - **Poor Developer Experience**: Complex smart contract development
 - **Scalability Issues**: Limited transaction throughput
