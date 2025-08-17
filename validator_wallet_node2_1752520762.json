@@ -1,0 +1,15 @@
+{
+  "node_id": "node2",
+  "created_at": 1752520762.5929105,
+  "wallet_type": "validator",
+  "address": "lakha1jgzgfvhy95vcyp33d8slf3qwcj43gty95qnqf3",
+  "mnemonic": "chapter talent suffer custom silk require gauge ranch wolf grunt climb unhappy candy skull bitter isolate student dove vicious rare fossil naive cupboard moon",
+  "story_hash": "03978478ae0d8a5c4194af78e2f55ffa442983b8545dbad1b414a0868d3c8136",
+  "story": "My older sister Sarah and I discovered a hidden compartment behind the loose brick in our basement wall when I was 9, and we secretly stashed our Halloween candy there every October because we were terrified our parents would find our sugar hoard, but I felt like we were pirates with buried treasure",
+  "funding": {
+    "error": "Transaction validation failed",
+    "funded": false,
+    "message": "Address generated but funding failed"
+  },
+  "api_url": "http://localhost:5002"
+}

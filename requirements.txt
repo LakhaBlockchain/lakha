@@ -1,0 +1,6 @@
+pytest
+bech32
+plyvel
+flask
+flask-cors
+requests

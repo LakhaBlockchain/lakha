@@ -1,0 +1,133 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+lahka_venv/
+ENV/
+.env/
+.venv/
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore test cache
+.cache/
+
+# Ignore all markdown files except README.md
+# *.md
+# !README.md
+
+# Ignore examples folder
+examples/ 
+
+# Ignore LevelDB and test DB folders
+lakha_db/
+lakha_db_p2p1/
+lakha_db_p2p2/
+lakha_db_p2p3/
+test_lakha_db_adv/
+
+# Track important markdown docs
+COMPREHENSIVE_TEST_REPORT.md
+POCS_IMPLEMENTATION_PLAN.md
+BLOCKCHAIN_REALITY.md
+INTERACTIVE_GUIDE.md 
+
+# Smart contract VM design plan (not tracked)
+smart_contract_vm_plan.md 
+
+inspect_contract_db.py
+
+
+/validator-client
+
+
+# LICENSE
+# README.md
+# assets/
+debug_api_status.py
+debug_faucet.py
+debug_p2p_messages.py
+debug_p2p_startup.py
+debug_transaction.py
+lakha_db_backup_1752725371/
+lakha_db_debug1/
+lakha_db_debug2/
+lakha_db_node1/
+lakha_db_node2/
+lakha_db_node3/
+memoryvault_wallet_20250713_083931.json
+memoryvault_wallet_20250713_092505.json
+memoryvault_wallet_20250713_094330.json
+memoryvault_wallet_20250717_051249.json
+memoryvault_wallet_20250717_051335.json
+memoryvault_wallet_20250717_051351.json
+memoryvault_wallet_20250717_052748.json
+test_ws.py
+validator_wallet_20250816_064702.json
+validator_wallet_node1_1752400425.json
+validator_wallet_node1_1752400715.json
+validator_wallet_node1_1752401474.json
+validator_wallet_node1_1752401830.json
+validator_wallet_node1_1752520226.json
+validator_wallet_node1_1752520760.json
+validator_wallet_node1_1752521060.json
+validator_wallet_node2_1752400715.json
+validator_wallet_node2_1752401474.json
+validator_wallet_node2_1752401830.json
+validator_wallet_node2_1752520226.json
+validator_wallet_node2_1752521069.json
+
+
+MULTI_NODE_GUIDE.md
+MULTI_NODE_STATUS.md
+PRE_TESTNET_LIMITATIONS.md
+08-16-CONTEXT.md
+API_README.md
+ROADMAP.md
+STATUS.md

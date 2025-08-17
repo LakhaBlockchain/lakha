@@ -1,0 +1,19 @@
+{
+  "created_at": "2025-07-17T06:17:58.299033",
+  "address": "lakha1p3c647x6ghhqfpz7f4qh4kmdgkm4a2agvc80f9",
+  "mnemonic": "sound movie quiz tattoo donate melt casual catalog muscle eagle office plug grid element fortune scout bacon apart describe phrase start vital flag sponsor",
+  "story_hash": "76d81e31b8e5036555e70f93b1f5884dfe1076fdbea4d6bea28705adc8e1b6ad",
+  "personal_elements_count": 12,
+  "personalness_score": 1.0,
+  "funding": {
+    "amount": 1e-06,
+    "funded": true,
+    "message": "Wallet funded with 1e-06 LAK tokens",
+    "transaction_hash": "ce56ce8786a18da75e6da76542000078d736331cf7d5b6d0703e5f6abab2f01e"
+  },
+  "story": "Every summer when I was 10, my grandmother Emma would take me to her secret fishing spot by the old wooden bridge near Miller's Creek, and I remember the exact moment I caught my first fish - a small bass - because I was so excited I started jumping up and down and screaming with joy, and grandma Emma laughed so hard she almost fell off her folding chair, and I felt like the luckiest kid in the whole world because that became our special tradition until she passed away.",
+  "recovery_instructions": {
+    "story_recovery": "Use the story above with MemoryVault recovery",
+    "mnemonic_recovery": "Use the mnemonic phrase above with any BIP39 wallet"
+  }
+}
