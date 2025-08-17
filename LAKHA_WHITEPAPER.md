@@ -3,7 +3,7 @@
 
 **Version:** 0.0.1  
 **Date:** July 2025
-**Authors:** David Nzube
+**Authors:** [David Nzube](https://x.com/DavidNzube101)
 
 ---
 
@@ -281,7 +281,7 @@ Lahka uses **Proof of Contribution Stake (PoCS)**, a hybrid consensus that combi
 
 ---
 
-## 💡 Use Cases & Applications
+## 💡 Use Cases & Applications (conceptual)
 
 - **DeFi Protocols**: Lending, staking, and automated market makers
 - **DAOs**: On-chain governance and voting
@@ -293,7 +293,7 @@ Lahka uses **Proof of Contribution Stake (PoCS)**, a hybrid consensus that combi
 
 ## 🛣️ Roadmap
 
-1. **Pre-Testnet (Current)**: Core blockchain, PoCS, basic contracts, P2P, LevelDB
+1. **[Local] Pre-Testnet (Current)**: Core blockchain, PoCS, basic contracts, P2P, LevelDB
 2. **Testnet**: Public testnet, contract VM, developer tools, explorer
 3. **Mainnet Launch**: Security audit, performance tuning, documentation
 4. **Post-Mainnet**: Sharding, advanced contract features, cross-chain bridges
@@ -307,6 +307,4 @@ Lahka is designed to be a secure, scalable, and developer-friendly blockchain pl
 ---
 
 **Contact & Community:**
-- [GitHub](https://github.com/your-repo)
-- [Discord](https://discord.gg/your-invite)
-- [Twitter](https://twitter.com/your-handle) 
+- [GitHub](https://github.com/LakhaBlockchain) 
