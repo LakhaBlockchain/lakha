@@ -13,6 +13,10 @@ Lahka is an experimental, modular blockchain platform designed to explore next-g
 ## License
 Lahka is open source, released under the [Apache License 2.0](LICENSE).
 
+## Whitepaper
+- [Notion](https://www.notion.so/Lahka-High-Performant-Chain-for-Mini-Economies-Proof-of-Contribution-Stake-PoCS-228b6acd0a14809caa1cef81bbd22109?showMoveTo=true&saveParent=true)
+- [GitHub](https://github.com/LakhaBlockchain/lakha/blob/master/LAKHA_WHITEPAPER.md)
+
 ---
 
 **This project is experimental and welcomes contributors, feedback, and new ideas!**
